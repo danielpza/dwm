@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=dwm
+Comment=Suckless dwm
+TryExec=dwm
+Exec=dwm
+Type=Application
+Icon=/usr/share/pixmaps/dwm.png
+Keywords=Window manager
